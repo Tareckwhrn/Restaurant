@@ -1,0 +1,2 @@
+display block : prend toute la largeur,peut creer gene avec la souris /curseur
+snazzy maps : site pour avoir des styles de map
